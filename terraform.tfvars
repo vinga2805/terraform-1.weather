@@ -1,5 +1,5 @@
-aws_access_key = "AKIAJWM5LWQ7N73VFWRA"
-aws_secret_key = "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"
+aws_access_key = "*******"
+aws_secret_key = "**********"
 aws_key_path = "~/Downloads/ireland_terraform.pem"
 aws_key_name = "ireland_terraform"
 platform_vpc_id = "vpc-ec3a448a"
